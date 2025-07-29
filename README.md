@@ -42,16 +42,16 @@
 ```bash
 git clone https://github.com/juanperort-dev/MapKit.git
 ```
-2. Open the project in Xcode 15 or later
-3. Build and run in a simulator or physical device
+2. Open the project in Xcode 15 or later.
+3. Build and run in a simulator or physical device.
 
 📸 Screenshots
 
 🌱 What I Learned
 
-Basics and advanced usage of MapKit within a SwiftUI context
-How to structure modular SwiftUI apps using MVVM
-Navigation and user interaction on map-based UIs
+- `Basics and advanced usage of MapKit within a SwiftUI context.`
+- `How to structure modular SwiftUI apps using MVVM.`
+- `Navigation and user interaction on map-based UIs.`
 
 ✅ To Do / Future Enhancements
 
